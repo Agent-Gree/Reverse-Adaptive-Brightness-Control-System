@@ -8,7 +8,13 @@ In a dark room, the light would get brighter
 In a bright room, the light would get dimmer
 
 Method/Equipment:
-I used an LED as the bulb, a photoresistor, a resistor for the LED, and a fixed 10K resistor (it's the 'fixed' resistor in the volage divider circuit)
+- LED (as the bulb) 
+- photoresistor (LDR)
+- 10K resistor for the LED 
+- fixed 100K resistor (it's the 'fixed' resistor in the volage divider circuit)
+- jumper wires
+- breadboard
+- Elegoo UNO R3 microcontroller
 
 Results:
 The LED was off when my lamp was on. 
