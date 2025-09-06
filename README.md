@@ -1,9 +1,9 @@
-# Smart-Flashlight
+# Reverse Adaptive Brightness Control System
 
 Goal:
-To create a self-adjusting flashlight
+To create a self-adjusting lighting system
 
-The idea was to make flashlight that self-adjusts its brightness for maximum visibility, while being energy efficient
+The idea was to make a headlight that self-adjusts its brightness for maximum visibility, while being energy efficient
 In a dark room, the light would get brighter
 In a bright room, the light would get dimmer
 So, in a way, reverse adaptive brightness! 
